@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nuel19
-- 👀 I’m interested in .....Coding and Games
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in .....Coding, Computers and Video-Games
+- 🌱 I’m currently learning ...Angular js
+- 💞️ I’m looking to collaborate on ...Frontend Projects 
 - 📫 How to reach me ...IG > @Nuel_af
 
 <!---
